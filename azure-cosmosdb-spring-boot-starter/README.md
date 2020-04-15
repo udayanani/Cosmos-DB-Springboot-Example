@@ -29,7 +29,6 @@
 - Supports List and nested type in domain class.
 
 ## Sample Code
-Please refer to [sample project here](../../Cosmos-DB-Springboot-Example/azure-cosmosdb-spring-boot-sample).
 
 ## Quick Start
 
