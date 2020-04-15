@@ -39,10 +39,4 @@ This sample project demonstrates how to use Azure CosmosDB via Spring Boot Start
      java -jar target/azure-ducumentdb-spring-boot-sample-0.0.1-SNAPSHOT.jar
      ```
 
-   - Use Gradle 
-   
-     ```
-     gradle bootRepackage
-     java -jar build/libs/azure-ducumentdb-spring-boot-sample-0.0.1-SNAPSHOT.jar
-     ```
-
+  
